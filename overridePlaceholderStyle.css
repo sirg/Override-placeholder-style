@@ -8,6 +8,6 @@
 */
 
 input::placeholder {
-  color: #000 !important;
-  opacity: 60% !important;
+  color: #000;
+  opacity: 60%;
 }
