@@ -1,0 +1,13 @@
+/*
+==UserCSS==
+@name       Override placeholder style
+@match      *://*/*
+@version          1.0
+@run-at     document_start
+==/UserCSS==
+*/
+
+input::placeholder {
+  color: #000 !important;
+  opacity: 60% !important;
+}
